@@ -1,0 +1,13 @@
+<?php
+echo "Lebokno jenengmu kang : ";
+$nama = trim(fgets(STDIN));
+echo "Lebokno biji mu : ";
+$nilai = trim(fgets(STDIN));
+
+if($nilai>=80){
+    echo "Sepurane kang🙏 $nama, We lulos 😒";
+
+}else{
+    echo " selamet we kang $nama, we ga lulos 😜";
+}
+?>
