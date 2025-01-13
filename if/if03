@@ -8,6 +8,6 @@ if($nilai>=80){
     echo "Sepurane kang🙏 $nama, We lulos 😒";
 
 }else{
-    echo " selamet we kang $nama, we ga lulos 😜";
+    echo " Matur suwun sanget kang $nama, we ra lulos 😜";
 }
 ?>
